@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">nice app</string>
+    <string-array name="abc">
+        <item>體育新聞</item>
+        <item>娛樂新聞</item>
+        <item>財金新聞</item>
+        <item>社會新聞</item>
+        <item>國際新聞</item>
+    </string-array>
+    <string-array name="movie">
+        <item>出神入化2</item>
+        <item>厲陰宅2</item>
+        <item>美國隊長3</item>
+        <item>魔獸</item>
+    </string-array>
+</resources>
